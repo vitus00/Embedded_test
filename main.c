@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void say_hello(){
-    printf("Hello!");
+    printf("SIuuuuu~!\n");
 
     return;
 }
